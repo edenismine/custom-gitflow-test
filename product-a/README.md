@@ -1,1 +1,1 @@
-This is the README file for Product A
+This is the README file for Product A.
